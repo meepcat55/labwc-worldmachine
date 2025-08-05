@@ -4,7 +4,7 @@ Inspired by OneShot: World Machine Edition
 # Screenshots
 ![Fastfetch and pipes.sh](https://github.com/maxobur0001/hyprland-worldmachine/blob/main/assets/screenshot0.png?raw=true)
 ![Rofi, lavat, dunst, fastfetch](https://github.com/maxobur0001/hyprland-worldmachine/blob/main/assets/screenshot1.png?raw=true)
-![OneShot, fastfetch, cava](https://github.com/maxobur0001/hyprland-worldmachine/blob/main/assets/screenshot1.png?raw=true)
+![OneShot, fastfetch, cava](https://github.com/maxobur0001/hyprland-worldmachine/blob/main/assets/screenshot2.png?raw=true)
 
 # Controls
 * SUPER + Vim cursor control - Move window
