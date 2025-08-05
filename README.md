@@ -12,10 +12,13 @@ Inspired by OneShot: World Machine Edition
 * SUPER + F - Float window
 * SUPER + G - Fullscreen window
 * SUPER + Q - Close window
+* SUPER + SPACE - Close window
 * SUPER + CTRL + Vim cursor control - Switch between non-empty workspaces
 * SUPER + CTRL + Numbers - Switch to workspace by his ID
 * SUPER + SHIFT + CTRL + Vim cursor control - Switch focus
 * SUPER + SHIFT + 3 - Screenshot
+* CTRL + SPACE - Switch a language (ru/us, can be changed in hyprland.conf)
+* SUPER + Mouse - Control window size, position
 
 # I want to make...
 * Power menu
